@@ -1,5 +1,4 @@
 # learn-relay
-Introduction to Facebook's Relay Library
 
 ## What
 
@@ -20,7 +19,6 @@ A data fetching library by Facebook for use with GraphQL and React. [Thinking in
 * Co location of views and queries
   - data needs of the component are declared alongside the component code
   - data is passed directly as props to the React component that needs it rather than having to pass props down multiple view layers
-
 * Not as much set up if you have a GraphQL implementation already!
   * Can also keep the graphql implementation separate and expose an API endpoint - using the introspection API the GraphQL schema can be retrieved for querying againstgithub
 
@@ -34,7 +32,7 @@ A data fetching library by Facebook for use with GraphQL and React. [Thinking in
 
 * uses Higher Order (RelayContainers) that wrap regular React UI component. The HOC will execute its queries and then render the child UI component, passing the query data in as props.
 * Relay Routes to define entry points into the query
-* Node Interfaces to map between xx and GraphQL objects
+* Node Interfaces for mapping
 
 
 #### Set up
