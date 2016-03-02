@@ -45,7 +45,7 @@ A data fetching library by Facebook for use with GraphQL and React. [Thinking in
 
 ## Resources
 
-[Relay Tutorial](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1lpesgmth)
-[Relay Advantages](http://red-badger.com/blog/2015/08/28/give-it-5-days-facebook-relay-and-graphql/)
-[Relay and Routing using react-router](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.br822rom9)
-[relay-tools](https://github.com/relay-tools)
+* [Relay Tutorial](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6#.1lpesgmth)
+* [Relay Advantages](http://red-badger.com/blog/2015/08/28/give-it-5-days-facebook-relay-and-graphql/)
+* [Relay and Routing using react-router](https://medium.com/@cpojer/relay-and-routing-36b5439bad9#.br822rom9)
+* [relay-tools](https://github.com/relay-tools)
